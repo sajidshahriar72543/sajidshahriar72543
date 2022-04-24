@@ -11,6 +11,7 @@
 
 -  **Hobbies :** Game, Reading Story Books, Listening to music, Watching movies etc
 
+-  **Currently Learning :** Flutter, Dart, UI Designings
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
