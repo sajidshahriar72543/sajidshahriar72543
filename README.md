@@ -17,8 +17,14 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidshahriar72543&layout=compact&theme=radical) -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidshahriar72543&layout=compact&theme=radical)
+
+</p>
+<p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajidshahriar72543&theme=light" alt="sajidshahriar72543" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=sajidshahriar72543&show_icons=true&locale=en&theme=light"  alt="sajidshahriar72543" />
+</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
