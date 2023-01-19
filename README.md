@@ -1,4 +1,6 @@
-<img src="https://github.com/sajidshahriar72543/sajidshahriar72543/blob/main/glitch.gif"/>
+<p align="center">
+  <img src="https://github.com/sajidshahriar72543/sajidshahriar72543/blob/main/glitch.gif"/>
+</p>
 
 ## Hi! I am <a href="https://sajidshahriar72543.github.io">**Sajid**
 <p><em>A bachelor student at <a href="https://ruet.ac.bd">Rajshahi University of Engineering and Technology</a>, in Electrical and Computer Engineering.</br>
