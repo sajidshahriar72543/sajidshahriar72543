@@ -24,9 +24,6 @@ const aboutMe = {
    challenge: "working on myself to become better everyday",
 };
 ```
-<br>
-<h2>💻 Some stats 💻</h2>
+<div align="center", style="stretch">
 
 ![Sajid's github stats](https://github-readme-stats.vercel.app/api?username=sajidshahriar72543&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
----
