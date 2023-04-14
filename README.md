@@ -20,7 +20,7 @@ const aboutMe = {
       },
       mobile: ["Android"]
    },
-   currentOccupation: ["3rd year student, open for part-time job opportunities"],
+   currentOccupation: ["4th year student, open for part-time job opportunities"],
    challenge: "working on myself to become better everyday",
 };
 ```
