@@ -10,7 +10,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [C, C++, Dart, Python],
+   code: [C, C++, Dart, Python, Bash],
    technologies: {
       frontEnd: {
          framework: ["Flutter"],
@@ -21,6 +21,7 @@ const aboutMe = {
       mobile: ["Android"]
    },
    currentOccupation: ["4th year student, open for part-time job opportunities"],
+   onGoingProjects: ["PixelOS-AOSP", "FusionOS", "PixelExperience"]
    challenge: "working on myself to become better everyday",
 };
 ```
