@@ -21,7 +21,7 @@ const aboutMe = {
       mobile: ["Android"]
    },
    currentOccupation: ["4th year student, open for part-time job opportunities"],
-   onGoingProjects: ["PixelOS-AOSP", "FusionOS", "PixelExperience"]
+   onGoingProjects: ["PixelOS-AOSP", "FusionOS"]
    challenge: "working on myself to become better everyday",
 };
 ```
