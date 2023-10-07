@@ -7,24 +7,28 @@
 </em></p>
 
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [C, C++, Dart, Python, Bash],
-   technologies: {
-      frontEnd: {
-         framework: ["Flutter"],
-      },
-      backEnd: {
-         database: ["Firestore, Firebase"],
-      },
-      mobile: ["Android"]
-   },
-   currentOccupation: ["4th year student, open for part-time job opportunities"],
-   onGoingProjects: ["PixelOS-AOSP", "FusionOS"]
-   challenge: "working on myself to become better everyday",
-};
-```
-<!-- <div align="center", style="stretch">
+```bash
+#!/bin/bash
 
-![Sajid's github stats](https://github-readme-stats.vercel.app/api?username=sajidshahriar72543&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+declare -a pronouns=("he" "him")
+declare -a code=("C" "C++" "Dart" "Python" "Bash" "Java")
+declare -a frontEnd=("Flutter")
+declare -a backEnd=("Firestore" "Firebase")
+declare -a mobile=("Android")
+declare -a currentOccupation=("4th year student" "open for part-time job opportunities [remote]")
+declare -a onGoingProjects=("PixelOS-AOSP" "FusionOS")
+
+aboutMe() {
+    echo "Pronouns: ${pronouns[*]}"
+    echo "Code: ${code[*]}"
+    echo "Technologies:"
+    echo "   FrontEnd: ${frontEnd[*]}"
+    echo "   BackEnd: ${backEnd[*]}"
+    echo "   Mobile: ${mobile[*]}"
+    echo "Current Occupation: ${currentOccupation[*]}"
+    echo "On Going Projects: ${onGoingProjects[*]}"
+    echo "Challenge: working on myself to become better everyday"
+}
+
+aboutMe
+```
